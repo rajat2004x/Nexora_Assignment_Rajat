@@ -1,11 +1,10 @@
 #  Vibe Commerce — E-Commerce Platform
 **By:** Rajat Kumar Singh  
-**Roll No:** 2300  
 
 ##  Project Overview
 A modern full-stack e-commerce application built using **React (Frontend)** and **Node.js + Express + SQLite (Backend)**.
 
-### 🎯 Features
+### Features
 - Product listing (with dynamic fetch from backend)
 - Add to Cart / Remove / Quantity update
 - Animated UI (AOS integration)
